@@ -1,2 +1,4 @@
 # CDWC_FREELANCER
-Este es mi primer proyecto realizado en el curso de Desarrollo Web Completo de Juan De La Torre. 
+Este proyecto forma parte del primero del curso.
+Se trata de un sitio web enfocado hacia un portafolio personal,
+viendo lo basico de HTML y CSS. 
